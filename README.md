@@ -4,4 +4,13 @@
 <p>bu yerda meni birinchi readme loyiham</p>
 <br>
 <hr>
-<p>men endi loyihalarimni shu yerda saqlab boraman</p>
+<p>men endi loyihala
+  imni shu yerda saqlab boraman</p>
+<div class="quti">
+  <ul>
+    <li>menyu</li>
+    <li>contact</li>
+    <li>biz haqimizda</li>
+    
+  </ul>
+</div>
